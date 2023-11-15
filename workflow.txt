@@ -4,3 +4,5 @@ working tree
 (git commit) =>local repository (på vår dator) 
 (git push) => remote repository (GitHub) 
 
+remote repository => (git fetch (hämtar saker från remote rep och uppdaterar lokal rep , men checkar inte ut. Git pull gör både fetch och checka ut samtidigt.)SÅ git fetch gör det bara i bakgrunden, )
+local_repository => (git checkout (hämtar saker från remote rep))
