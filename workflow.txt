@@ -1,2 +1,6 @@
-working tree => staging area =>local repository (på vår dator) => remote repository (GitHub) 
+working tree 
+
+(git add) => staging area 
+(git commit) =>local repository (på vår dator) 
+(git push) => remote repository (GitHub) 
 
