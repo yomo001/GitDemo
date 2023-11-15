@@ -1,3 +1,2 @@
 working tree => staging area =>local repository (på vår dator) => remote repository (GitHub) 
-                               
 
